@@ -1,0 +1,15 @@
+{
+    "link": "Quarantined Link",
+    "listing": {
+        "title": "Quarantined Listing",
+        "item1": "Item number one",
+        "item2": "Item number two"
+    },
+    "report": {
+        "title": "Quarantined Report"
+    },
+    "title": "Quarantined Title",
+    "widget": {
+        "title": "Quarantined Widget"
+    }
+}
